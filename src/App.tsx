@@ -1,4 +1,4 @@
-import { Footer, Header } from "./components";
+import { Footer, Header, Hero } from "./components";
 import { GlobalStyles } from "./global";
 
 function App() {
@@ -7,6 +7,7 @@ function App() {
       <GlobalStyles />
       <div className="w-full min-h-[100vh] flex flex-col justify-between">
         <Header />
+        <Hero />
         <Footer />
       </div>
     </>
