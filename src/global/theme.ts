@@ -1,3 +1,3 @@
 export const THEME = {
-  colors: {},
+  colors: { green1: "#01e4d0" },
 };
