@@ -7,7 +7,7 @@ module.exports = {
         sans: ["Montserrat", "sans-serif"],
         heading: ["Montserrat", "sans-serif"],
       },
-      colors: { green1: "#01e4d0" },
+      colors: { green1: "#01e4d0", orange1: "#fed400" },
     },
   },
   plugins: [],
