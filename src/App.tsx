@@ -1,5 +1,11 @@
+import { GlobalStyles } from "./global";
+
 function App() {
-  return <div className="font-semibold">app</div>;
+  return (
+    <>
+      <GlobalStyles />
+    </>
+  );
 }
 
 export default App;
