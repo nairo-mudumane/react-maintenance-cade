@@ -73,7 +73,7 @@ export function Form() {
             <CssTextField
               name="name"
               type="text"
-              required={false}
+              required
               variant="outlined"
               label="Nome"
               helperText={input.errors.name && input.errors.name}
